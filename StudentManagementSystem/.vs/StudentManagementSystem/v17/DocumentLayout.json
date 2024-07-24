@@ -1,0 +1,578 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|c:\\users\\peterm\\desktop\\practicals_peter_nelson\\application\\studentmanagementsystem\\kilimohighschool\\views\\classstream\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|solutionrelative:kilimohighschool\\views\\classstream\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|c:\\users\\peterm\\desktop\\practicals_peter_nelson\\application\\studentmanagementsystem\\kilimohighschool\\views\\classstream\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|solutionrelative:kilimohighschool\\views\\classstream\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|c:\\users\\peterm\\desktop\\practicals_peter_nelson\\application\\studentmanagementsystem\\kilimohighschool\\controllers\\classstreamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|solutionrelative:kilimohighschool\\controllers\\classstreamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|c:\\users\\peterm\\desktop\\practicals_peter_nelson\\application\\studentmanagementsystem\\kilimohighschool\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|solutionrelative:kilimohighschool\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|c:\\users\\peterm\\desktop\\practicals_peter_nelson\\application\\studentmanagementsystem\\kilimohighschool\\dataaccess\\ibasegenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|solutionrelative:kilimohighschool\\dataaccess\\ibasegenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|c:\\users\\peterm\\desktop\\practicals_peter_nelson\\application\\studentmanagementsystem\\kilimohighschool\\dataaccess\\basegenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|solutionrelative:kilimohighschool\\dataaccess\\basegenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|c:\\users\\peterm\\desktop\\practicals_peter_nelson\\application\\studentmanagementsystem\\kilimohighschool\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|solutionrelative:kilimohighschool\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|c:\\users\\peterm\\desktop\\practicals_peter_nelson\\application\\studentmanagementsystem\\kilimohighschool\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|solutionrelative:kilimohighschool\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|c:\\users\\peterm\\desktop\\practicals_peter_nelson\\application\\studentmanagementsystem\\kilimohighschool\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|solutionrelative:kilimohighschool\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|c:\\users\\peterm\\desktop\\practicals_peter_nelson\\application\\studentmanagementsystem\\kilimohighschool\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|solutionrelative:kilimohighschool\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|c:\\users\\peterm\\desktop\\practicals_peter_nelson\\application\\studentmanagementsystem\\kilimohighschool\\features\\students\\database\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|solutionrelative:kilimohighschool\\features\\students\\database\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|c:\\users\\peterm\\desktop\\practicals_peter_nelson\\application\\studentmanagementsystem\\kilimohighschool\\extensions\\configuredatabasesqlserverextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|solutionrelative:kilimohighschool\\extensions\\configuredatabasesqlserverextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|c:\\users\\peterm\\desktop\\practicals_peter_nelson\\application\\studentmanagementsystem\\kilimohighschool\\migrations\\20240724094044_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|solutionrelative:kilimohighschool\\migrations\\20240724094044_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|c:\\users\\peterm\\desktop\\practicals_peter_nelson\\application\\studentmanagementsystem\\kilimohighschool\\models\\classstream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|solutionrelative:kilimohighschool\\models\\classstream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|c:\\users\\peterm\\desktop\\practicals_peter_nelson\\application\\studentmanagementsystem\\kilimohighschool\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|solutionrelative:kilimohighschool\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Migrations\\20240724093508_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KilimoHighSchool\\Migrations\\20240724093508_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|c:\\users\\peterm\\desktop\\practicals_peter_nelson\\application\\studentmanagementsystem\\kilimohighschool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|solutionrelative:kilimohighschool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|c:\\users\\peterm\\desktop\\practicals_peter_nelson\\application\\studentmanagementsystem\\kilimohighschool\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|solutionrelative:kilimohighschool\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|c:\\users\\peterm\\desktop\\practicals_peter_nelson\\application\\studentmanagementsystem\\kilimohighschool\\settings\\sqlserversettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|solutionrelative:kilimohighschool\\settings\\sqlserversettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|c:\\users\\peterm\\desktop\\practicals_peter_nelson\\application\\studentmanagementsystem\\kilimohighschool\\features\\students\\database\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|solutionrelative:kilimohighschool\\features\\students\\database\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|c:\\users\\peterm\\desktop\\practicals_peter_nelson\\application\\studentmanagementsystem\\kilimohighschool\\features\\classstreams\\database\\iclassstreamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|solutionrelative:kilimohighschool\\features\\classstreams\\database\\iclassstreamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|c:\\users\\peterm\\desktop\\practicals_peter_nelson\\application\\studentmanagementsystem\\kilimohighschool\\features\\classstreams\\database\\classstreamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|solutionrelative:kilimohighschool\\features\\classstreams\\database\\classstreamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|c:\\users\\peterm\\desktop\\practicals_peter_nelson\\application\\studentmanagementsystem\\kilimohighschool\\features\\students\\commands\\deletestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|solutionrelative:kilimohighschool\\features\\students\\commands\\deletestudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|c:\\users\\peterm\\desktop\\practicals_peter_nelson\\application\\studentmanagementsystem\\kilimohighschool\\dataaccess\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|solutionrelative:kilimohighschool\\dataaccess\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|c:\\users\\peterm\\desktop\\practicals_peter_nelson\\application\\studentmanagementsystem\\kilimohighschool\\dataaccess\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|solutionrelative:kilimohighschool\\dataaccess\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|c:\\users\\peterm\\desktop\\practicals_peter_nelson\\application\\studentmanagementsystem\\kilimohighschool\\dataaccess\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|solutionrelative:kilimohighschool\\dataaccess\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|c:\\users\\peterm\\desktop\\practicals_peter_nelson\\application\\studentmanagementsystem\\kilimohighschool\\dataaccess\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|solutionrelative:kilimohighschool\\dataaccess\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|c:\\users\\peterm\\desktop\\practicals_peter_nelson\\application\\studentmanagementsystem\\kilimohighschool\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|solutionrelative:kilimohighschool\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|c:\\users\\peterm\\desktop\\practicals_peter_nelson\\application\\studentmanagementsystem\\kilimohighschool\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|solutionrelative:kilimohighschool\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|c:\\users\\peterm\\desktop\\practicals_peter_nelson\\application\\studentmanagementsystem\\kilimohighschool\\kilimohighschool.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|solutionrelative:kilimohighschool\\kilimohighschool.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|c:\\users\\peterm\\desktop\\practicals_peter_nelson\\application\\studentmanagementsystem\\kilimohighschool\\database\\kilimoschooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|solutionrelative:kilimohighschool\\database\\kilimoschooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|c:\\users\\peterm\\desktop\\practicals_peter_nelson\\application\\studentmanagementsystem\\kilimohighschool\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0734DDBB-1F57-4E7E-BFCE-4DACBF0BA43B}|KilimoHighSchool\\KilimoHighSchool.csproj|solutionrelative:kilimohighschool\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 336,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Views\\ClassStream\\Create.cshtml",
+              "RelativeDocumentMoniker": "KilimoHighSchool\\Views\\ClassStream\\Create.cshtml",
+              "ToolTip": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Views\\ClassStream\\Create.cshtml*",
+              "RelativeToolTip": "KilimoHighSchool\\Views\\ClassStream\\Create.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T10:37:58.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Views\\ClassStream\\Index.cshtml",
+              "RelativeDocumentMoniker": "KilimoHighSchool\\Views\\ClassStream\\Index.cshtml",
+              "ToolTip": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Views\\ClassStream\\Index.cshtml*",
+              "RelativeToolTip": "KilimoHighSchool\\Views\\ClassStream\\Index.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T10:37:06.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "KilimoHighSchool\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "KilimoHighSchool\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T09:45:23.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassStreamController.cs",
+              "DocumentMoniker": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Controllers\\ClassStreamController.cs",
+              "RelativeDocumentMoniker": "KilimoHighSchool\\Controllers\\ClassStreamController.cs",
+              "ToolTip": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Controllers\\ClassStreamController.cs",
+              "RelativeToolTip": "KilimoHighSchool\\Controllers\\ClassStreamController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAYwCcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T09:42:33.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "KilimoHighSchool\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "KilimoHighSchool\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:53:49.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBaseGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\DataAccess\\IBaseGenericRepository.cs",
+              "RelativeDocumentMoniker": "KilimoHighSchool\\DataAccess\\IBaseGenericRepository.cs",
+              "ToolTip": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\DataAccess\\IBaseGenericRepository.cs",
+              "RelativeToolTip": "KilimoHighSchool\\DataAccess\\IBaseGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:58:28.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "KilimoHighSchool\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "KilimoHighSchool\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAUwCwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T09:08:45.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\DataAccess\\BaseGenericRepository.cs",
+              "RelativeDocumentMoniker": "KilimoHighSchool\\DataAccess\\BaseGenericRepository.cs",
+              "ToolTip": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\DataAccess\\BaseGenericRepository.cs",
+              "RelativeToolTip": "KilimoHighSchool\\DataAccess\\BaseGenericRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAD4vxMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:07:09.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "KilimoHighSchool\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "KilimoHighSchool\\Views\\Student\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T09:44:01.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "KilimoHighSchool\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "KilimoHighSchool\\Views\\Student\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T09:47:48.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Features\\Students\\Database\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "KilimoHighSchool\\Features\\Students\\Database\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Features\\Students\\Database\\IStudentRepository.cs",
+              "RelativeToolTip": "KilimoHighSchool\\Features\\Students\\Database\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:03:39.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "KilimoHighSchool\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Models\\Student.cs",
+              "RelativeToolTip": "KilimoHighSchool\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:48:42.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConfigureDatabaseSQLServerExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Extensions\\ConfigureDatabaseSQLServerExtensions.cs",
+              "RelativeDocumentMoniker": "KilimoHighSchool\\Extensions\\ConfigureDatabaseSQLServerExtensions.cs",
+              "ToolTip": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Extensions\\ConfigureDatabaseSQLServerExtensions.cs",
+              "RelativeToolTip": "KilimoHighSchool\\Extensions\\ConfigureDatabaseSQLServerExtensions.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:41:01.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Program.cs",
+              "RelativeDocumentMoniker": "KilimoHighSchool\\Program.cs",
+              "ToolTip": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Program.cs",
+              "RelativeToolTip": "KilimoHighSchool\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:43:30.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClassStream.cs",
+              "DocumentMoniker": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Models\\ClassStream.cs",
+              "RelativeDocumentMoniker": "KilimoHighSchool\\Models\\ClassStream.cs",
+              "ToolTip": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Models\\ClassStream.cs",
+              "RelativeToolTip": "KilimoHighSchool\\Models\\ClassStream.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:50:55.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Features\\Students\\Database\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "KilimoHighSchool\\Features\\Students\\Database\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Features\\Students\\Database\\StudentRepository.cs",
+              "RelativeToolTip": "KilimoHighSchool\\Features\\Students\\Database\\StudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:05:28.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\appsettings.json",
+              "RelativeDocumentMoniker": "KilimoHighSchool\\appsettings.json",
+              "ToolTip": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\appsettings.json",
+              "RelativeToolTip": "KilimoHighSchool\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAACPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-24T07:29:42.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IClassStreamRepository.cs",
+              "DocumentMoniker": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Features\\ClassStreams\\Database\\IClassStreamRepository.cs",
+              "RelativeDocumentMoniker": "KilimoHighSchool\\Features\\ClassStreams\\Database\\IClassStreamRepository.cs",
+              "ToolTip": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Features\\ClassStreams\\Database\\IClassStreamRepository.cs",
+              "RelativeToolTip": "KilimoHighSchool\\Features\\ClassStreams\\Database\\IClassStreamRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T09:00:49.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ClassStreamRepository.cs",
+              "DocumentMoniker": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Features\\ClassStreams\\Database\\ClassStreamRepository.cs",
+              "RelativeDocumentMoniker": "KilimoHighSchool\\Features\\ClassStreams\\Database\\ClassStreamRepository.cs",
+              "ToolTip": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Features\\ClassStreams\\Database\\ClassStreamRepository.cs",
+              "RelativeToolTip": "KilimoHighSchool\\Features\\ClassStreams\\Database\\ClassStreamRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T09:02:47.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SQLServerSettings.cs",
+              "DocumentMoniker": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Settings\\SQLServerSettings.cs",
+              "RelativeDocumentMoniker": "KilimoHighSchool\\Settings\\SQLServerSettings.cs",
+              "ToolTip": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Settings\\SQLServerSettings.cs",
+              "RelativeToolTip": "KilimoHighSchool\\Settings\\SQLServerSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:43:33.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DeleteStudentCommand.cs",
+              "DocumentMoniker": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Features\\Students\\Commands\\DeleteStudentCommand.cs",
+              "RelativeDocumentMoniker": "KilimoHighSchool\\Features\\Students\\Commands\\DeleteStudentCommand.cs",
+              "ToolTip": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Features\\Students\\Commands\\DeleteStudentCommand.cs",
+              "RelativeToolTip": "KilimoHighSchool\\Features\\Students\\Commands\\DeleteStudentCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:54:53.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\DataAccess\\Repository.cs",
+              "RelativeDocumentMoniker": "KilimoHighSchool\\DataAccess\\Repository.cs",
+              "ToolTip": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\DataAccess\\Repository.cs",
+              "RelativeToolTip": "KilimoHighSchool\\DataAccess\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:42:35.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\DataAccess\\IRepository.cs",
+              "RelativeDocumentMoniker": "KilimoHighSchool\\DataAccess\\IRepository.cs",
+              "ToolTip": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\DataAccess\\IRepository.cs",
+              "RelativeToolTip": "KilimoHighSchool\\DataAccess\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:42:05.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\DataAccess\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "KilimoHighSchool\\DataAccess\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\DataAccess\\IUnitOfWork.cs",
+              "RelativeToolTip": "KilimoHighSchool\\DataAccess\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:01:11.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\DataAccess\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "KilimoHighSchool\\DataAccess\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\DataAccess\\UnitOfWork.cs",
+              "RelativeToolTip": "KilimoHighSchool\\DataAccess\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:11:57.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "KilimoHighSchool\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "KilimoHighSchool\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:52:23.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "KilimoHighSchool\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "KilimoHighSchool\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-24T07:51:55.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "KilimoHighSchool",
+              "DocumentMoniker": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\KilimoHighSchool.csproj",
+              "RelativeDocumentMoniker": "KilimoHighSchool\\KilimoHighSchool.csproj",
+              "ToolTip": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\KilimoHighSchool.csproj",
+              "RelativeToolTip": "KilimoHighSchool\\KilimoHighSchool.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-24T07:50:40.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "KilimoSchoolDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Database\\KilimoSchoolDbContext.cs",
+              "RelativeDocumentMoniker": "KilimoHighSchool\\Database\\KilimoSchoolDbContext.cs",
+              "ToolTip": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Database\\KilimoSchoolDbContext.cs",
+              "RelativeToolTip": "KilimoHighSchool\\Database\\KilimoSchoolDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:03:51.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "KilimoHighSchool\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "KilimoHighSchool\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:52:38.73Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 15,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240724094044_initialcreate.cs",
+              "DocumentMoniker": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Migrations\\20240724094044_initialcreate.cs",
+              "RelativeDocumentMoniker": "KilimoHighSchool\\Migrations\\20240724094044_initialcreate.cs",
+              "ToolTip": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Migrations\\20240724094044_initialcreate.cs",
+              "RelativeToolTip": "KilimoHighSchool\\Migrations\\20240724094044_initialcreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T09:40:45.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240724093508_initialcreate.cs",
+              "DocumentMoniker": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Migrations\\20240724093508_initialcreate.cs",
+              "RelativeDocumentMoniker": "KilimoHighSchool\\Migrations\\20240724093508_initialcreate.cs",
+              "ToolTip": "C:\\Users\\peterm\\Desktop\\PRACTICALS_PETER_NELSON\\Application\\StudentManagementSystem\\KilimoHighSchool\\Migrations\\20240724093508_initialcreate.cs",
+              "RelativeToolTip": "KilimoHighSchool\\Migrations\\20240724093508_initialcreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T09:35:09.172Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
